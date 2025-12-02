@@ -1,0 +1,15 @@
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\cliente\FondaClienteFeign.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\config\JwtAuthenticationFilter.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\config\SecurityConfig.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\controller\CatalogoFondaController.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\controller\ClienteController.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\dto\ClienteDto.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\dto\ProductoDto.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\dto\TipoDto.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\entity\Cliente.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\mapper\ClienteMapper.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\repository\ClienteRepository.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\RestaurantesApplication.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\service\ClienteService.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\service\implement\ClienteServiceImpl.java
+C:\Users\hugui\OneDrive\Desktop\ProyectoRestaurante\Restaurantes\src\main\java\itch\hugo\rest\service\JwtService.java

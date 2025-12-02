@@ -1,0 +1,15 @@
+itch\hugo\rest\config\SecurityConfig.class
+itch\hugo\rest\controller\CatalogoFondaController.class
+itch\hugo\rest\entity\Cliente.class
+itch\hugo\rest\dto\ClienteDto.class
+itch\hugo\rest\dto\TipoDto.class
+itch\hugo\rest\controller\ClienteController.class
+itch\hugo\rest\service\JwtService.class
+itch\hugo\rest\dto\ProductoDto.class
+itch\hugo\rest\service\ClienteService.class
+itch\hugo\rest\cliente\FondaClienteFeign.class
+itch\hugo\rest\RestaurantesApplication.class
+itch\hugo\rest\config\JwtAuthenticationFilter.class
+itch\hugo\rest\service\implement\ClienteServiceImpl.class
+itch\hugo\rest\mapper\ClienteMapper.class
+itch\hugo\rest\repository\ClienteRepository.class
